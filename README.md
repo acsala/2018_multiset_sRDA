@@ -7,9 +7,6 @@ Redundancy Analysis (RDA) is a well‐known method used to describe the directio
 
 For more details see [Csala, A., Hof, M. H., & Zwinderman, A. H. (2019). Multiset sparse redundancy analysis for high‐dimensional omics data. Biometrical Journal, 61(2), 406-423.](https://doi.org/10.1002/bimj.201700248).
 
-Source code for manuscript "Multiset sparse redundancy analysis for high dimensional omics data"
-by Attila Csala, Michel H. Hof, and Aeilko H. Zwinderman.
-
 Please run the code in analyse_multi_sRDA.R to reprudice the results in the manusript. For questions, comments or remarks about the code please contact A. Csala at a@csala.me.
 
 The code is based on PLS-PM as described in Esposito Vinzi and Russolillo, 2013; Sanchez, 2013.
